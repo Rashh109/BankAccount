@@ -1,2 +1,3 @@
-# COLLEGE ASSIGNMENTS: Distributed System Assignments
-created a single thread programme using java.
+# Created a Single Thread Programme using java.
+COLLEGE ASSIGNMENTS: Distributed System Assignments
+
